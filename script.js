@@ -7,7 +7,7 @@ const getCurrentWeather = (lat, lon) =>{
             console.log(result);
 
             const temp = document.querySelector(".temp");
-            temp.innerText = `${result.main.temp}도`;
+            temp.innerText = `❤️${result.main.temp}도`;
 
             let weatherInfo;
             const weather = document.querySelector(".weather");
