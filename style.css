@@ -20,8 +20,8 @@ body{
     justify-content: center;
     align-items: center;
     background: 
-    url("https://i.namu.wiki/i/6LR75orSbfiVVGZ089H0qFUoW--9nDfIs2tOtpeqwkP22LzNKkjMInXRgZieM2Ay7cYpJ_wLJ6gIcNm1rBYAfw.webp"); 
-    center /cover no-repeat;
+    url("https://i.namu.wiki/i/6LR75orSbfiVVGZ089H0qFUoW--9nDfIs2tOtpeqwkP22LzNKkjMInXRgZieM2Ay7cYpJ_wLJ6gIcNm1rBYAfw.webp") 
+    center/cover no-repeat;
 }
 
 .current-weather {
@@ -41,11 +41,11 @@ body{
     height: 100px;
     border: 2px solid #fff;
     border-radius: 50%;
-    box-shadow: 0 0 8px; rgba(0,0,0,1)
+    box-shadow: 0 0 8px rgba(0,0,0,1);
 }
 .temp{
     font-weight: bold;
-    font-size: 2rem;
+    font-size : 2rem;
 }
 
 .info{
